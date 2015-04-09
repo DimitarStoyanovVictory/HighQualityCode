@@ -1,0 +1,5 @@
+C:\Files for programing\SoftUni All\High Quality Code\06.High-Quality-Classes\06. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Files for programing\SoftUni All\High Quality Code\06.High-Quality-Classes\06. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Files for programing\SoftUni All\High Quality Code\06.High-Quality-Classes\06. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+C:\Files for programing\SoftUni All\High Quality Code\06.High-Quality-Classes\06. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Files for programing\SoftUni All\High Quality Code\06.High-Quality-Classes\06. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

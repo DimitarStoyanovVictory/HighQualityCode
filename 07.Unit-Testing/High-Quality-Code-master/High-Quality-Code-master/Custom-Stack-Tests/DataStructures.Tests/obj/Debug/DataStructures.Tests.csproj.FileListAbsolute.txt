@@ -1,0 +1,1 @@
+C:\Files for programing\SoftUni All\High Quality Code\07. Unit-Testing\High-Quality-Code-master\High-Quality-Code-master\Custom-Stack-Tests\DataStructures.Tests\obj\Debug\DataStructures.Tests.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Files for programing\SoftUni All\High Quality Code\09.Refactoring\13. Refactoring-Homework\MatricaTests\bin\Debug\MatricaTests.dll
+C:\Files for programing\SoftUni All\High Quality Code\09.Refactoring\13. Refactoring-Homework\MatricaTests\bin\Debug\MatricaTests.pdb
+C:\Files for programing\SoftUni All\High Quality Code\09.Refactoring\13. Refactoring-Homework\MatricaTests\bin\Debug\GameFifteen.exe
+C:\Files for programing\SoftUni All\High Quality Code\09.Refactoring\13. Refactoring-Homework\MatricaTests\bin\Debug\GameFifteen.pdb
+C:\Files for programing\SoftUni All\High Quality Code\09.Refactoring\13. Refactoring-Homework\MatricaTests\obj\Debug\MatricaTests.csprojResolveAssemblyReference.cache
+C:\Files for programing\SoftUni All\High Quality Code\09.Refactoring\13. Refactoring-Homework\MatricaTests\obj\Debug\MatricaTests.dll
+C:\Files for programing\SoftUni All\High Quality Code\09.Refactoring\13. Refactoring-Homework\MatricaTests\obj\Debug\MatricaTests.pdb

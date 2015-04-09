@@ -1,0 +1,5 @@
+C:\Files for programing\SoftUni All\High Quality Code\06.High-Quality-Classes\06. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+C:\Files for programing\SoftUni All\High Quality Code\06.High-Quality-Classes\06. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+C:\Files for programing\SoftUni All\High Quality Code\06.High-Quality-Classes\06. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.csprojResolveAssemblyReference.cache
+C:\Files for programing\SoftUni All\High Quality Code\06.High-Quality-Classes\06. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+C:\Files for programing\SoftUni All\High Quality Code\06.High-Quality-Classes\06. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb

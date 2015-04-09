@@ -1,0 +1,12 @@
+D:\Homeworks\SoftUni\HQC\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\bin\Debug\SOLIDPrinciplesInSoftwareDesign.exe.config
+D:\Homeworks\SoftUni\HQC\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\bin\Debug\SOLIDPrinciplesInSoftwareDesign.exe
+D:\Homeworks\SoftUni\HQC\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\bin\Debug\SOLIDPrinciplesInSoftwareDesign.pdb
+D:\Homeworks\SoftUni\HQC\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\HQC\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\obj\Debug\SOLIDPrinciplesInSoftwareDesign.exe
+D:\Homeworks\SoftUni\HQC\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\obj\Debug\SOLIDPrinciplesInSoftwareDesign.pdb
+C:\Users\User\Desktop\Downloads\Homework-SOLID and other principles-51507\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\bin\Debug\SOLIDPrinciplesInSoftwareDesign.exe.config
+C:\Users\User\Desktop\Downloads\Homework-SOLID and other principles-51507\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\obj\Debug\SOLIDPrinciplesInSoftwareDesign.exe
+C:\Users\User\Desktop\Downloads\Homework-SOLID and other principles-51507\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\obj\Debug\SOLIDPrinciplesInSoftwareDesign.pdb
+C:\Users\User\Desktop\Downloads\Homework-SOLID and other principles-51507\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\bin\Debug\SOLIDPrinciplesInSoftwareDesign.exe
+C:\Users\User\Desktop\Downloads\Homework-SOLID and other principles-51507\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\bin\Debug\SOLIDPrinciplesInSoftwareDesign.pdb
+C:\Users\User\Desktop\Downloads\Homework-SOLID and other principles-51507\17.SOLID-Principles-in-Software-Design\SOLIDPrinciplesInSoftwareDesign\SOLIDPrinciplesInSoftwareDesign\obj\Debug\Logger.csprojResolveAssemblyReference.cache

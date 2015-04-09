@@ -1,0 +1,4 @@
+C:\Files for programing\SoftUni All\High Quality Code\08. Defensive-Programming-Homework\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.exe
+C:\Files for programing\SoftUni All\High Quality Code\08. Defensive-Programming-Homework\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.pdb
+C:\Files for programing\SoftUni All\High Quality Code\08. Defensive-Programming-Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.exe
+C:\Files for programing\SoftUni All\High Quality Code\08. Defensive-Programming-Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.pdb

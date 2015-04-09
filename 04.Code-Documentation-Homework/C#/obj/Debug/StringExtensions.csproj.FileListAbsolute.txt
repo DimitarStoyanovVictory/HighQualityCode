@@ -1,0 +1,5 @@
+C:\Files for programing\SoftUni All\High Quality Code\04. Code-Documentation-Homework\C#\bin\Debug\StringExtensions.dll
+C:\Files for programing\SoftUni All\High Quality Code\04. Code-Documentation-Homework\C#\bin\Debug\StringExtensions.pdb
+C:\Files for programing\SoftUni All\High Quality Code\04. Code-Documentation-Homework\C#\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+C:\Files for programing\SoftUni All\High Quality Code\04. Code-Documentation-Homework\C#\obj\Debug\StringExtensions.dll
+C:\Files for programing\SoftUni All\High Quality Code\04. Code-Documentation-Homework\C#\obj\Debug\StringExtensions.pdb

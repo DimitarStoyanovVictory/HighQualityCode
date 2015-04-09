@@ -1,0 +1,5 @@
+C:\Files for programing\SoftUni All\High Quality Code\03. Naming-Identifiers-Homework\C#\Mini4ki\bin\Debug\Minesweeper.exe
+C:\Files for programing\SoftUni All\High Quality Code\03. Naming-Identifiers-Homework\C#\Mini4ki\bin\Debug\Minesweeper.pdb
+C:\Files for programing\SoftUni All\High Quality Code\03. Naming-Identifiers-Homework\C#\Mini4ki\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Files for programing\SoftUni All\High Quality Code\03. Naming-Identifiers-Homework\C#\Mini4ki\obj\Debug\Minesweeper.exe
+C:\Files for programing\SoftUni All\High Quality Code\03. Naming-Identifiers-Homework\C#\Mini4ki\obj\Debug\Minesweeper.pdb

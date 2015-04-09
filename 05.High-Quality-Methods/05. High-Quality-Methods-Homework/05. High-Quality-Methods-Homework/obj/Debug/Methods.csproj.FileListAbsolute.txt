@@ -1,0 +1,5 @@
+C:\Files for programing\SoftUni All\High Quality Code\05.High-Quality-Methods\05. High-Quality-Methods-Homework\05. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+C:\Files for programing\SoftUni All\High Quality Code\05.High-Quality-Methods\05. High-Quality-Methods-Homework\05. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+C:\Files for programing\SoftUni All\High Quality Code\05.High-Quality-Methods\05. High-Quality-Methods-Homework\05. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Files for programing\SoftUni All\High Quality Code\05.High-Quality-Methods\05. High-Quality-Methods-Homework\05. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+C:\Files for programing\SoftUni All\High Quality Code\05.High-Quality-Methods\05. High-Quality-Methods-Homework\05. High-Quality-Methods-Homework\obj\Debug\Methods.pdb
